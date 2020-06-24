@@ -1,0 +1,7 @@
+F:\4050 - Adv OO Programing\Labs\01\Lab01 - 300295374\Lab01 - 300295374\bin\Debug\Lab01 - 300295374.exe.config
+F:\4050 - Adv OO Programing\Labs\01\Lab01 - 300295374\Lab01 - 300295374\bin\Debug\Lab01 - 300295374.exe
+F:\4050 - Adv OO Programing\Labs\01\Lab01 - 300295374\Lab01 - 300295374\bin\Debug\Lab01 - 300295374.pdb
+F:\4050 - Adv OO Programing\Labs\01\Lab01 - 300295374\Lab01 - 300295374\obj\Debug\Lab01 - 300295374.csprojAssemblyReference.cache
+F:\4050 - Adv OO Programing\Labs\01\Lab01 - 300295374\Lab01 - 300295374\obj\Debug\Lab01 - 300295374.csproj.CoreCompileInputs.cache
+F:\4050 - Adv OO Programing\Labs\01\Lab01 - 300295374\Lab01 - 300295374\obj\Debug\Lab01 - 300295374.exe
+F:\4050 - Adv OO Programing\Labs\01\Lab01 - 300295374\Lab01 - 300295374\obj\Debug\Lab01 - 300295374.pdb
