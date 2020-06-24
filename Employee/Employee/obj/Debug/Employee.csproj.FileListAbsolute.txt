@@ -1,0 +1,7 @@
+F:\4050 - Adv OO Programing\Labs\02\Employee\Employee\bin\Debug\Employee.exe.config
+F:\4050 - Adv OO Programing\Labs\02\Employee\Employee\bin\Debug\Employee.exe
+F:\4050 - Adv OO Programing\Labs\02\Employee\Employee\bin\Debug\Employee.pdb
+F:\4050 - Adv OO Programing\Labs\02\Employee\Employee\obj\Debug\Employee.csprojAssemblyReference.cache
+F:\4050 - Adv OO Programing\Labs\02\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+F:\4050 - Adv OO Programing\Labs\02\Employee\Employee\obj\Debug\Employee.exe
+F:\4050 - Adv OO Programing\Labs\02\Employee\Employee\obj\Debug\Employee.pdb
