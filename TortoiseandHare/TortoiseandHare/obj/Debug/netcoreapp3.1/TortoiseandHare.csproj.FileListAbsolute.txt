@@ -1,0 +1,13 @@
+F:\4050 - Adv OO Programing\Labs\03\TortoiseandHare\TortoiseandHare\bin\Debug\netcoreapp3.1\TortoiseandHare.exe
+F:\4050 - Adv OO Programing\Labs\03\TortoiseandHare\TortoiseandHare\bin\Debug\netcoreapp3.1\TortoiseandHare.deps.json
+F:\4050 - Adv OO Programing\Labs\03\TortoiseandHare\TortoiseandHare\bin\Debug\netcoreapp3.1\TortoiseandHare.runtimeconfig.json
+F:\4050 - Adv OO Programing\Labs\03\TortoiseandHare\TortoiseandHare\bin\Debug\netcoreapp3.1\TortoiseandHare.runtimeconfig.dev.json
+F:\4050 - Adv OO Programing\Labs\03\TortoiseandHare\TortoiseandHare\bin\Debug\netcoreapp3.1\TortoiseandHare.dll
+F:\4050 - Adv OO Programing\Labs\03\TortoiseandHare\TortoiseandHare\bin\Debug\netcoreapp3.1\TortoiseandHare.pdb
+F:\4050 - Adv OO Programing\Labs\03\TortoiseandHare\TortoiseandHare\obj\Debug\netcoreapp3.1\TortoiseandHare.csprojAssemblyReference.cache
+F:\4050 - Adv OO Programing\Labs\03\TortoiseandHare\TortoiseandHare\obj\Debug\netcoreapp3.1\TortoiseandHare.csproj.CoreCompileInputs.cache
+F:\4050 - Adv OO Programing\Labs\03\TortoiseandHare\TortoiseandHare\obj\Debug\netcoreapp3.1\TortoiseandHare.AssemblyInfoInputs.cache
+F:\4050 - Adv OO Programing\Labs\03\TortoiseandHare\TortoiseandHare\obj\Debug\netcoreapp3.1\TortoiseandHare.AssemblyInfo.cs
+F:\4050 - Adv OO Programing\Labs\03\TortoiseandHare\TortoiseandHare\obj\Debug\netcoreapp3.1\TortoiseandHare.dll
+F:\4050 - Adv OO Programing\Labs\03\TortoiseandHare\TortoiseandHare\obj\Debug\netcoreapp3.1\TortoiseandHare.pdb
+F:\4050 - Adv OO Programing\Labs\03\TortoiseandHare\TortoiseandHare\obj\Debug\netcoreapp3.1\TortoiseandHare.genruntimeconfig.cache
