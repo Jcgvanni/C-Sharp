@@ -1,0 +1,12 @@
+F:\4050 - Adv OO Programing\Labs\DB LABS\03\Product Lookup\Product Lookup\bin\Debug\ProductDB.mdf
+F:\4050 - Adv OO Programing\Labs\DB LABS\03\Product Lookup\Product Lookup\bin\Debug\ProductDB_log.ldf
+F:\4050 - Adv OO Programing\Labs\DB LABS\03\Product Lookup\Product Lookup\bin\Debug\Product Lookup.exe.config
+F:\4050 - Adv OO Programing\Labs\DB LABS\03\Product Lookup\Product Lookup\bin\Debug\Product Lookup.exe
+F:\4050 - Adv OO Programing\Labs\DB LABS\03\Product Lookup\Product Lookup\bin\Debug\Product Lookup.pdb
+F:\4050 - Adv OO Programing\Labs\DB LABS\03\Product Lookup\Product Lookup\obj\Debug\Product Lookup.csprojAssemblyReference.cache
+F:\4050 - Adv OO Programing\Labs\DB LABS\03\Product Lookup\Product Lookup\obj\Debug\Product_Lookup.Form1.resources
+F:\4050 - Adv OO Programing\Labs\DB LABS\03\Product Lookup\Product Lookup\obj\Debug\Product_Lookup.Properties.Resources.resources
+F:\4050 - Adv OO Programing\Labs\DB LABS\03\Product Lookup\Product Lookup\obj\Debug\Product Lookup.csproj.GenerateResource.cache
+F:\4050 - Adv OO Programing\Labs\DB LABS\03\Product Lookup\Product Lookup\obj\Debug\Product Lookup.csproj.CoreCompileInputs.cache
+F:\4050 - Adv OO Programing\Labs\DB LABS\03\Product Lookup\Product Lookup\obj\Debug\Product Lookup.exe
+F:\4050 - Adv OO Programing\Labs\DB LABS\03\Product Lookup\Product Lookup\obj\Debug\Product Lookup.pdb
