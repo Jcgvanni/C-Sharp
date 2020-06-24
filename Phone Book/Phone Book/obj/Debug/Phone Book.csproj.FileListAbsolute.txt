@@ -1,0 +1,12 @@
+F:\4050 - Adv OO Programing\Labs\DB LABS\01\Phone Book\Phone Book\bin\Debug\Phonelist.mdf
+F:\4050 - Adv OO Programing\Labs\DB LABS\01\Phone Book\Phone Book\bin\Debug\Phonelist_log.ldf
+F:\4050 - Adv OO Programing\Labs\DB LABS\01\Phone Book\Phone Book\bin\Debug\Phone Book.exe.config
+F:\4050 - Adv OO Programing\Labs\DB LABS\01\Phone Book\Phone Book\bin\Debug\Phone Book.exe
+F:\4050 - Adv OO Programing\Labs\DB LABS\01\Phone Book\Phone Book\bin\Debug\Phone Book.pdb
+F:\4050 - Adv OO Programing\Labs\DB LABS\01\Phone Book\Phone Book\obj\Debug\Phone Book.csprojAssemblyReference.cache
+F:\4050 - Adv OO Programing\Labs\DB LABS\01\Phone Book\Phone Book\obj\Debug\Phone_Book.Form1.resources
+F:\4050 - Adv OO Programing\Labs\DB LABS\01\Phone Book\Phone Book\obj\Debug\Phone_Book.Properties.Resources.resources
+F:\4050 - Adv OO Programing\Labs\DB LABS\01\Phone Book\Phone Book\obj\Debug\Phone Book.csproj.GenerateResource.cache
+F:\4050 - Adv OO Programing\Labs\DB LABS\01\Phone Book\Phone Book\obj\Debug\Phone Book.csproj.CoreCompileInputs.cache
+F:\4050 - Adv OO Programing\Labs\DB LABS\01\Phone Book\Phone Book\obj\Debug\Phone Book.exe
+F:\4050 - Adv OO Programing\Labs\DB LABS\01\Phone Book\Phone Book\obj\Debug\Phone Book.pdb
