@@ -1,0 +1,13 @@
+F:\4050 - Adv OO Programing\Labs\04\LinqInvoice\LinqInvoice\obj\Debug\netcoreapp3.1\LinqInvoice.csprojAssemblyReference.cache
+F:\4050 - Adv OO Programing\Labs\04\LinqInvoice\LinqInvoice\obj\Debug\netcoreapp3.1\LinqInvoice.csproj.CoreCompileInputs.cache
+F:\4050 - Adv OO Programing\Labs\04\LinqInvoice\LinqInvoice\obj\Debug\netcoreapp3.1\LinqInvoice.AssemblyInfoInputs.cache
+F:\4050 - Adv OO Programing\Labs\04\LinqInvoice\LinqInvoice\obj\Debug\netcoreapp3.1\LinqInvoice.AssemblyInfo.cs
+F:\4050 - Adv OO Programing\Labs\04\LinqInvoice\LinqInvoice\bin\Debug\netcoreapp3.1\LinqInvoice.exe
+F:\4050 - Adv OO Programing\Labs\04\LinqInvoice\LinqInvoice\bin\Debug\netcoreapp3.1\LinqInvoice.deps.json
+F:\4050 - Adv OO Programing\Labs\04\LinqInvoice\LinqInvoice\bin\Debug\netcoreapp3.1\LinqInvoice.runtimeconfig.json
+F:\4050 - Adv OO Programing\Labs\04\LinqInvoice\LinqInvoice\bin\Debug\netcoreapp3.1\LinqInvoice.runtimeconfig.dev.json
+F:\4050 - Adv OO Programing\Labs\04\LinqInvoice\LinqInvoice\bin\Debug\netcoreapp3.1\LinqInvoice.dll
+F:\4050 - Adv OO Programing\Labs\04\LinqInvoice\LinqInvoice\bin\Debug\netcoreapp3.1\LinqInvoice.pdb
+F:\4050 - Adv OO Programing\Labs\04\LinqInvoice\LinqInvoice\obj\Debug\netcoreapp3.1\LinqInvoice.dll
+F:\4050 - Adv OO Programing\Labs\04\LinqInvoice\LinqInvoice\obj\Debug\netcoreapp3.1\LinqInvoice.pdb
+F:\4050 - Adv OO Programing\Labs\04\LinqInvoice\LinqInvoice\obj\Debug\netcoreapp3.1\LinqInvoice.genruntimeconfig.cache
