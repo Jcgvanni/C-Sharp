@@ -1,0 +1,12 @@
+F:\4050 - Adv OO Programing\Labs\DB LABS\05\Product Queries\Product Queries\bin\Debug\ProductDB.mdf
+F:\4050 - Adv OO Programing\Labs\DB LABS\05\Product Queries\Product Queries\bin\Debug\ProductDB_log.ldf
+F:\4050 - Adv OO Programing\Labs\DB LABS\05\Product Queries\Product Queries\bin\Debug\Product Queries.exe.config
+F:\4050 - Adv OO Programing\Labs\DB LABS\05\Product Queries\Product Queries\bin\Debug\Product Queries.exe
+F:\4050 - Adv OO Programing\Labs\DB LABS\05\Product Queries\Product Queries\bin\Debug\Product Queries.pdb
+F:\4050 - Adv OO Programing\Labs\DB LABS\05\Product Queries\Product Queries\obj\Debug\Product Queries.csprojAssemblyReference.cache
+F:\4050 - Adv OO Programing\Labs\DB LABS\05\Product Queries\Product Queries\obj\Debug\Product_Queries.Form1.resources
+F:\4050 - Adv OO Programing\Labs\DB LABS\05\Product Queries\Product Queries\obj\Debug\Product_Queries.Properties.Resources.resources
+F:\4050 - Adv OO Programing\Labs\DB LABS\05\Product Queries\Product Queries\obj\Debug\Product Queries.csproj.GenerateResource.cache
+F:\4050 - Adv OO Programing\Labs\DB LABS\05\Product Queries\Product Queries\obj\Debug\Product Queries.csproj.CoreCompileInputs.cache
+F:\4050 - Adv OO Programing\Labs\DB LABS\05\Product Queries\Product Queries\obj\Debug\Product Queries.exe
+F:\4050 - Adv OO Programing\Labs\DB LABS\05\Product Queries\Product Queries\obj\Debug\Product Queries.pdb
