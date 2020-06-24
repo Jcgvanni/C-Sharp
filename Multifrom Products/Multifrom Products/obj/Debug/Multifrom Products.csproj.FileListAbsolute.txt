@@ -1,0 +1,13 @@
+F:\4050 - Adv OO Programing\Labs\DB LABS\04\Multifrom Products\Multifrom Products\bin\Debug\ProductDB.mdf
+F:\4050 - Adv OO Programing\Labs\DB LABS\04\Multifrom Products\Multifrom Products\bin\Debug\ProductDB_log.ldf
+F:\4050 - Adv OO Programing\Labs\DB LABS\04\Multifrom Products\Multifrom Products\bin\Debug\Multifrom Products.exe.config
+F:\4050 - Adv OO Programing\Labs\DB LABS\04\Multifrom Products\Multifrom Products\bin\Debug\Multifrom Products.exe
+F:\4050 - Adv OO Programing\Labs\DB LABS\04\Multifrom Products\Multifrom Products\bin\Debug\Multifrom Products.pdb
+F:\4050 - Adv OO Programing\Labs\DB LABS\04\Multifrom Products\Multifrom Products\obj\Debug\Multifrom Products.csprojAssemblyReference.cache
+F:\4050 - Adv OO Programing\Labs\DB LABS\04\Multifrom Products\Multifrom Products\obj\Debug\Multifrom_Products.DetailsForm.resources
+F:\4050 - Adv OO Programing\Labs\DB LABS\04\Multifrom Products\Multifrom Products\obj\Debug\Multifrom_Products.MainForm.resources
+F:\4050 - Adv OO Programing\Labs\DB LABS\04\Multifrom Products\Multifrom Products\obj\Debug\Multifrom_Products.Properties.Resources.resources
+F:\4050 - Adv OO Programing\Labs\DB LABS\04\Multifrom Products\Multifrom Products\obj\Debug\Multifrom Products.csproj.GenerateResource.cache
+F:\4050 - Adv OO Programing\Labs\DB LABS\04\Multifrom Products\Multifrom Products\obj\Debug\Multifrom Products.csproj.CoreCompileInputs.cache
+F:\4050 - Adv OO Programing\Labs\DB LABS\04\Multifrom Products\Multifrom Products\obj\Debug\Multifrom Products.exe
+F:\4050 - Adv OO Programing\Labs\DB LABS\04\Multifrom Products\Multifrom Products\obj\Debug\Multifrom Products.pdb
