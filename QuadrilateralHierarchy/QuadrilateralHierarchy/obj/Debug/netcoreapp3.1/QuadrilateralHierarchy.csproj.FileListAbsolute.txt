@@ -1,0 +1,13 @@
+F:\4050 - Adv OO Programing\Labs\07\QuadrilateralHierarchy\QuadrilateralHierarchy\bin\Debug\netcoreapp3.1\QuadrilateralHierarchy.exe
+F:\4050 - Adv OO Programing\Labs\07\QuadrilateralHierarchy\QuadrilateralHierarchy\bin\Debug\netcoreapp3.1\QuadrilateralHierarchy.deps.json
+F:\4050 - Adv OO Programing\Labs\07\QuadrilateralHierarchy\QuadrilateralHierarchy\bin\Debug\netcoreapp3.1\QuadrilateralHierarchy.runtimeconfig.json
+F:\4050 - Adv OO Programing\Labs\07\QuadrilateralHierarchy\QuadrilateralHierarchy\bin\Debug\netcoreapp3.1\QuadrilateralHierarchy.runtimeconfig.dev.json
+F:\4050 - Adv OO Programing\Labs\07\QuadrilateralHierarchy\QuadrilateralHierarchy\bin\Debug\netcoreapp3.1\QuadrilateralHierarchy.dll
+F:\4050 - Adv OO Programing\Labs\07\QuadrilateralHierarchy\QuadrilateralHierarchy\bin\Debug\netcoreapp3.1\QuadrilateralHierarchy.pdb
+F:\4050 - Adv OO Programing\Labs\07\QuadrilateralHierarchy\QuadrilateralHierarchy\obj\Debug\netcoreapp3.1\QuadrilateralHierarchy.csprojAssemblyReference.cache
+F:\4050 - Adv OO Programing\Labs\07\QuadrilateralHierarchy\QuadrilateralHierarchy\obj\Debug\netcoreapp3.1\QuadrilateralHierarchy.AssemblyInfoInputs.cache
+F:\4050 - Adv OO Programing\Labs\07\QuadrilateralHierarchy\QuadrilateralHierarchy\obj\Debug\netcoreapp3.1\QuadrilateralHierarchy.AssemblyInfo.cs
+F:\4050 - Adv OO Programing\Labs\07\QuadrilateralHierarchy\QuadrilateralHierarchy\obj\Debug\netcoreapp3.1\QuadrilateralHierarchy.csproj.CoreCompileInputs.cache
+F:\4050 - Adv OO Programing\Labs\07\QuadrilateralHierarchy\QuadrilateralHierarchy\obj\Debug\netcoreapp3.1\QuadrilateralHierarchy.dll
+F:\4050 - Adv OO Programing\Labs\07\QuadrilateralHierarchy\QuadrilateralHierarchy\obj\Debug\netcoreapp3.1\QuadrilateralHierarchy.pdb
+F:\4050 - Adv OO Programing\Labs\07\QuadrilateralHierarchy\QuadrilateralHierarchy\obj\Debug\netcoreapp3.1\QuadrilateralHierarchy.genruntimeconfig.cache
