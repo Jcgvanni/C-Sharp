@@ -1,0 +1,13 @@
+F:\4050 - Adv OO Programing\Labs\06\Lab06\Lab06\bin\Debug\netcoreapp3.1\Lab06.exe
+F:\4050 - Adv OO Programing\Labs\06\Lab06\Lab06\bin\Debug\netcoreapp3.1\Lab06.deps.json
+F:\4050 - Adv OO Programing\Labs\06\Lab06\Lab06\bin\Debug\netcoreapp3.1\Lab06.runtimeconfig.json
+F:\4050 - Adv OO Programing\Labs\06\Lab06\Lab06\bin\Debug\netcoreapp3.1\Lab06.runtimeconfig.dev.json
+F:\4050 - Adv OO Programing\Labs\06\Lab06\Lab06\bin\Debug\netcoreapp3.1\Lab06.dll
+F:\4050 - Adv OO Programing\Labs\06\Lab06\Lab06\bin\Debug\netcoreapp3.1\Lab06.pdb
+F:\4050 - Adv OO Programing\Labs\06\Lab06\Lab06\obj\Debug\netcoreapp3.1\Lab06.csprojAssemblyReference.cache
+F:\4050 - Adv OO Programing\Labs\06\Lab06\Lab06\obj\Debug\netcoreapp3.1\Lab06.AssemblyInfoInputs.cache
+F:\4050 - Adv OO Programing\Labs\06\Lab06\Lab06\obj\Debug\netcoreapp3.1\Lab06.AssemblyInfo.cs
+F:\4050 - Adv OO Programing\Labs\06\Lab06\Lab06\obj\Debug\netcoreapp3.1\Lab06.csproj.CoreCompileInputs.cache
+F:\4050 - Adv OO Programing\Labs\06\Lab06\Lab06\obj\Debug\netcoreapp3.1\Lab06.dll
+F:\4050 - Adv OO Programing\Labs\06\Lab06\Lab06\obj\Debug\netcoreapp3.1\Lab06.pdb
+F:\4050 - Adv OO Programing\Labs\06\Lab06\Lab06\obj\Debug\netcoreapp3.1\Lab06.genruntimeconfig.cache
