@@ -1,0 +1,13 @@
+F:\4050 - Adv OO Programing\Labs\05\HugeInteger\HugeInteger\bin\Debug\netcoreapp3.1\HugeInteger.exe
+F:\4050 - Adv OO Programing\Labs\05\HugeInteger\HugeInteger\bin\Debug\netcoreapp3.1\HugeInteger.deps.json
+F:\4050 - Adv OO Programing\Labs\05\HugeInteger\HugeInteger\bin\Debug\netcoreapp3.1\HugeInteger.runtimeconfig.json
+F:\4050 - Adv OO Programing\Labs\05\HugeInteger\HugeInteger\bin\Debug\netcoreapp3.1\HugeInteger.runtimeconfig.dev.json
+F:\4050 - Adv OO Programing\Labs\05\HugeInteger\HugeInteger\bin\Debug\netcoreapp3.1\HugeInteger.dll
+F:\4050 - Adv OO Programing\Labs\05\HugeInteger\HugeInteger\bin\Debug\netcoreapp3.1\HugeInteger.pdb
+F:\4050 - Adv OO Programing\Labs\05\HugeInteger\HugeInteger\obj\Debug\netcoreapp3.1\HugeInteger.csprojAssemblyReference.cache
+F:\4050 - Adv OO Programing\Labs\05\HugeInteger\HugeInteger\obj\Debug\netcoreapp3.1\HugeInteger.AssemblyInfoInputs.cache
+F:\4050 - Adv OO Programing\Labs\05\HugeInteger\HugeInteger\obj\Debug\netcoreapp3.1\HugeInteger.AssemblyInfo.cs
+F:\4050 - Adv OO Programing\Labs\05\HugeInteger\HugeInteger\obj\Debug\netcoreapp3.1\HugeInteger.csproj.CoreCompileInputs.cache
+F:\4050 - Adv OO Programing\Labs\05\HugeInteger\HugeInteger\obj\Debug\netcoreapp3.1\HugeInteger.dll
+F:\4050 - Adv OO Programing\Labs\05\HugeInteger\HugeInteger\obj\Debug\netcoreapp3.1\HugeInteger.pdb
+F:\4050 - Adv OO Programing\Labs\05\HugeInteger\HugeInteger\obj\Debug\netcoreapp3.1\HugeInteger.genruntimeconfig.cache
